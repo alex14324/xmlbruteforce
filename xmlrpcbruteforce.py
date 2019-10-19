@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 
-# Author:   Kavish Gour
+# Author:   Alex(Dinu Reddy)
 # Date:     2019-10-10
-# Email: kavishgr@protonmail.com
-# Twitter:  https://twitter.com/kavishgour
+# Email: dinureddy@protonmail.com
+# Twitter:  https://twitter.com/Alex_14324
 # Python || SecBSD || Penetration Tester 
 
 
