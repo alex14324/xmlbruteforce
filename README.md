@@ -3,11 +3,11 @@
 <h4 align="center">An XMLRPC BruteForcer for Wordpress  - Inpired by (1N3@CrowdShield)</h4>
 
 <p align="center">
-  <a href="https://twitter.com/kavishgour"><b>Twitter</b></a>
+  <a href="https://twitter.com/Alex_14324"><b>Twitter</b></a>
   <span> - </span>
-  <a href="https://t.me/kavishgr"><b>Telegram</b></a>
+  <a href="https://t.me/alex14324"><b>Telegram</b></a>
   <span> - </span>
-  <a href="https://kavishgr.github.io"><b>Blog</b></a>
+  <a href="https://alex14324.github.io"><b>Blog</b></a>
 </p>
 
 
